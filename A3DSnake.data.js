@@ -173,6 +173,6 @@ Module['FS_createPath']('/A3DSnake/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 89, "filename": "/UE4CommandLine.txt"}, {"start": 89, "audio": 0, "end": 27333120, "filename": "/A3DSnake/Content/Paks/A3DSnake-HTML5.pak"}], "remote_package_size": 27333120, "package_uuid": "28a6f773-f39d-4a30-bcc8-4b93f1ba490e"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 89, "filename": "/UE4CommandLine.txt"}, {"start": 89, "audio": 0, "end": 27330545, "filename": "/A3DSnake/Content/Paks/A3DSnake-HTML5.pak"}], "remote_package_size": 27330545, "package_uuid": "af69de76-b2bd-4500-a81b-9c8b7e485dba"});
 
 })();
